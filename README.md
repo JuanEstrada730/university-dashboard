@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## Deployed dashboard
 
-You can view the dashboard online here: [Streamlit Cloud link]
+You can view the dashboard online here: [university-dashboard-sga5dhyh6mwwpjhjnqdgcf.streamlit.app]
 
 ## Team members
 
